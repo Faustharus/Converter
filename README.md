@@ -1,5 +1,5 @@
 # Converter
-Redesign of the Converter Project
+Redesign of the Converter Project (From HWS)
 
 Made also with Swift / SwiftUI
 
